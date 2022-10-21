@@ -1,1 +1,2 @@
-capitulo3.txt
+_*.txt
+!_ayuda.txt
